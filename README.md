@@ -1,1 +1,1 @@
-# smart-contract-lottery
+# foundry-smart-contract-lottery-f23
